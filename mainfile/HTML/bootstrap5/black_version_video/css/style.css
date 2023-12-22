@@ -1006,7 +1006,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_couter_wrapper {
     display: inline-block;
     width: 100%;
-    background-image: url(https://dummyimage.com/1920x644);
+    background-image: url(../images/content/background.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1068,28 +1068,28 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image:url(https://dummyimage.com/169x165);
+	background-image:url(../images/content/qnet.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-2{
-	background-image:url(https://dummyimage.com/169x165);
+	background-image:url(../images/content/sqld.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-3{
-	background-image:url(https://dummyimage.com/169x165);
+	background-image:url(../images/content/qnet.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(https://dummyimage.com/169x165);
+	background-image:url(../images/content/joeun.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
